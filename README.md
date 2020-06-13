@@ -2,7 +2,7 @@
 [VISUM 2020](http://visum.inesctec.pt) Summer School Digital Edition - The Competition Repository 
 
 
-[alt visum2020](http://visum.inesctec.pt/wp-content/uploads/2020/05/site_cover.png?id=4367)
+![alt text](http://visum.inesctec.pt/wp-content/uploads/2020/05/site_cover.png "VISUM 2020")
 
 
 Here you will find all information regarding the competition, including:

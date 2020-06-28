@@ -12,5 +12,6 @@ Here you will find all information regarding the competition, including:
 3. Auxiliary source code, including the source code of the baseline solution.
 4. The competition leaderboards, which will be updated daily.
 
+To download the baseline model implemented in pytorch you can do it [here](https://drive.google.com/file/d/1Egx0t5bWMLvcHpLYP5HqptRyCh1Mj_S-/view?usp=sharing).
 
 We wish you all good luck and much success in your work :)

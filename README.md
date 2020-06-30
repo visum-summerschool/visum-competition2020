@@ -1,9 +1,9 @@
 # visum-competition2020
 [VISUM 2020](http://visum.inesctec.pt) Summer School Digital Edition - The Competition Repository 
 
-
-![alt text](http://visum.inesctec.pt/wp-content/uploads/2020/05/site_cover.png "VISUM 2020")
-
+<p align="center">
+  <img src='banner_digital edition.png', width="75%">
+</p>
 
 Here you will find all information regarding the competition, including:
 
@@ -15,3 +15,7 @@ Here you will find all information regarding the competition, including:
 To download the baseline model implemented in pytorch you can do it [here](https://drive.google.com/file/d/1Egx0t5bWMLvcHpLYP5HqptRyCh1Mj_S-/view?usp=sharing).
 
 We wish you all good luck and much success in your work :)
+
+**Presentation** - available soon!
+
+**FAQs** - available soon!

@@ -1,10 +1,8 @@
-# Daily Leaderboard (July 2)
-
 || Team | AP@[0.5:0.95] |
 | :---: | :---: | :---: |
 | 1 | test_team | 0.1238 |
 | 2 | *BASELINE* | 0.0707 |
-| 3 |  | nan |
+| 3 |  | 0.0090 |
 | 4 |  | nan |
 | 5 |  | nan |
 | 6 |  | nan |

@@ -36,7 +36,7 @@ def compute_AP(preds_list, labels_dict, iou_level=0.5):
     # Initialize True positives and False positives to zero
     TP = FP = 0
     # The total number of positives = (TP + FN) which is constant if we fix labels_dict
-    Total_positives = sum([len(x) for x in labels_dict.items()])
+    Total_positives = sum([len(x[1]) for x in labels_dict.items()])
     # sort predictions by their score
     preds_list = sorted(preds_list, key=lambda x:x[3], reverse=True)
     for seq, frame, box, score in preds_list:

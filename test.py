@@ -7,7 +7,6 @@ from torchvision.ops import nms
 
 NMS_THRESHOLD = 0.1
 SAVED_MODEL = 'fasterRCNN'
-OUTPUT_FILE = 'predictions_small_test.csv'
 DATA_DIR = '/home/master/dataset/test/'
 
 # Load dataset

@@ -16,6 +16,6 @@ To download the baseline model implemented in pytorch you can do it [here](https
 
 We wish you all good luck and much success in your work :)
 
-**Presentation** - available soon!
+**Presentation** - [here](https://github.com/visum-summerschool/visum-competition2020/blob/master/materials/project%20presentation.pdf)
 
-**FAQs** - available soon!
+**FAQs** - [here](https://github.com/visum-summerschool/visum-competition2020/blob/master/materials/FAQs-and-ImportantInfo.pdf)

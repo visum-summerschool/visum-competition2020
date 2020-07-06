@@ -18,4 +18,4 @@ We wish you all good luck and much success in your work :)
 
 **Presentation** - [here](https://github.com/visum-summerschool/visum-competition2020/blob/master/materials/project%20presentation.pdf)
 
-**FAQs** - [here](https://github.com/visum-summerschool/visum-competition2020/blob/master/materials/FAQs-amd-ImportantInfor.pdf)
+**FAQs** - [here](https://github.com/visum-summerschool/visum-competition2020/blob/master/materials/FAQs-and-ImportantInfo.pdf)

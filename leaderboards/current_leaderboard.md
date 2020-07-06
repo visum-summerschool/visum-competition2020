@@ -3,8 +3,8 @@
 | 1 | VISIONERS | 0.4703 |
 | 2 | FishEye | 0.2323 |
 | 3 | *BASELINE* | 0.1320 |
-| 4 | FMS Team | 0.0005 |
-| 5 | FROST | nan |
+| 4 | FROST | 0.1094 |
+| 5 | FMS Team | 0.0005 |
 | 6 | Perceptrons | nan |
 | 7 | Finding Nemo | nan |
 | 8 | Edward Bloom's Team | nan |

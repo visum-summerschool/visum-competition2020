@@ -2,7 +2,7 @@
 | :---: | :---: | :---: |
 | 1 | FROST | 0.4764 |
 | 2 | VISIONERS | 0.4733 |
-| 3 | FishEye | 0.2323 |
+| 3 | FishEye | 0.3717 |
 | 4 | FMS Team | 0.2001 |
 | 5 | Poseidon | 0.1636 |
 | 6 | Perceptrons | 0.1320 |

@@ -5,9 +5,9 @@
 | 3 | FishEye | 0.3717 |
 | 4 | FMS Team | 0.2001 |
 | 5 | Poseidon | 0.1636 |
-| 6 | Perceptrons | 0.1320 |
-| 7 | Finding Nemo | 0.1320 |
-| 8 | WhereIsMyFish | 0.1320 |
+| 6 | WhereIsMyFish | 0.1449 |
+| 7 | Perceptrons | 0.1320 |
+| 8 | Finding Nemo | 0.1320 |
 | 9 | pescAI | 0.1320 |
 | 10 | FishDetector | 0.1320 |
 | 11 | Rocket Team | 0.1320 |

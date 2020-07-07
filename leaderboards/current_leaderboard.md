@@ -1,12 +1,10 @@
-# Daily Leaderboard (July 7)
-
 || Team | AP@[0.5:0.95] |
 | :---: | :---: | :---: |
-| 1 | VISIONERS | 0.4733 |
-| 2 | FishEye | 0.2323 |
-| 3 | FMS Team | 0.2001 |
-| 4 | Poseidon | 0.1636 |
-| 5 | FROST | 0.1320 |
+| 1 | FROST | 0.4764 |
+| 2 | VISIONERS | 0.4733 |
+| 3 | FishEye | 0.2323 |
+| 4 | FMS Team | 0.2001 |
+| 5 | Poseidon | 0.1636 |
 | 6 | Finding Nemo | 0.1320 |
 | 7 | WhereIsMyFish | 0.1320 |
 | 8 | pescAI | 0.1320 |

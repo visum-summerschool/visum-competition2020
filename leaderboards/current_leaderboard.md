@@ -1,7 +1,7 @@
 || Team | AP@[0.5:0.95] |
 | :---: | :---: | :---: |
 | 1 | FROST | 0.4764 |
-| 2 | FishEye | 0.2781 |
+| 2 | FishEye | 0.4015 |
 | 3 | Edward Bloom's Team | 0.2422 |
 | 4 | VISIONERS | 0.2269 |
 | 5 | CUDAbeFixe | 0.1667 |

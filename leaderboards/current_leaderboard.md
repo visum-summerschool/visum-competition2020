@@ -9,12 +9,12 @@
 | 7 | CUDAbeFixe | 0.1667 |
 | 8 | Poseidon | 0.1636 |
 | 9 | WhereIsMyFish | 0.1449 |
-| 10 | Finding Nemo | 0.1320 |
-| 11 | FishDetector | 0.1320 |
-| 12 | LoneWolf | 0.1320 |
-| 13 | *BASELINE* | 0.1320 |
-| 14 | Perceptrons | 0.1013 |
-| 15 | FMS Team | 0.0001 |
-| 16 | pescAI | 0.0000 |
+| 10 | pescAI | 0.1412 |
+| 11 | Finding Nemo | 0.1320 |
+| 12 | FishDetector | 0.1320 |
+| 13 | LoneWolf | 0.1320 |
+| 14 | *BASELINE* | 0.1320 |
+| 15 | Perceptrons | 0.1013 |
+| 16 | FMS Team | 0.0001 |
 | 17 | GHOTI | nan |
 

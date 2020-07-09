@@ -6,8 +6,8 @@
 | 4 | FMS Team | 0.4395 |
 | 5 | FROST | 0.4119 |
 | 6 | Rocket Team | 0.2743 |
-| 7 | Edward Bloom's Team | 0.2405 |
-| 8 | CUDAbeFixe | 0.1667 |
+| 7 | CUDAbeFixe | 0.2683 |
+| 8 | Edward Bloom's Team | 0.2405 |
 | 9 | Poseidon | 0.1636 |
 | 10 | WhereIsMyFish | 0.1449 |
 | 11 | pescAI | 0.1412 |

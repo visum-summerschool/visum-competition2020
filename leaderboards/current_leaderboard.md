@@ -3,18 +3,18 @@
 | 1 | VISIONERS | 0.4616 |
 | 2 | Oceanview | 0.4512 |
 | 3 | FishEye | 0.4469 |
-| 4 | FROST | 0.4119 |
-| 5 | Rocket Team | 0.2743 |
-| 6 | Edward Bloom's Team | 0.2405 |
-| 7 | CUDAbeFixe | 0.1667 |
-| 8 | Poseidon | 0.1636 |
-| 9 | WhereIsMyFish | 0.1449 |
-| 10 | pescAI | 0.1412 |
-| 11 | Finding Nemo | 0.1320 |
-| 12 | FishDetector | 0.1320 |
-| 13 | LoneWolf | 0.1320 |
-| 14 | *BASELINE* | 0.1320 |
-| 15 | Perceptrons | 0.1013 |
-| 16 | FMS Team | 0.0001 |
+| 4 | FMS Team | 0.4395 |
+| 5 | FROST | 0.4119 |
+| 6 | Rocket Team | 0.2743 |
+| 7 | Edward Bloom's Team | 0.2405 |
+| 8 | CUDAbeFixe | 0.1667 |
+| 9 | Poseidon | 0.1636 |
+| 10 | WhereIsMyFish | 0.1449 |
+| 11 | pescAI | 0.1412 |
+| 12 | Finding Nemo | 0.1320 |
+| 13 | FishDetector | 0.1320 |
+| 14 | LoneWolf | 0.1320 |
+| 15 | *BASELINE* | 0.1320 |
+| 16 | Perceptrons | 0.1013 |
 | 17 | GHOTI | nan |
 

@@ -1,11 +1,11 @@
 || Team | AP@[0.5:0.95] |
 | :---: | :---: | :---: |
-| 1 | Oceanview | 0.4512 |
-| 2 | FROST | 0.4119 |
-| 3 | FishEye | 0.4013 |
-| 4 | Rocket Team | 0.2743 |
-| 5 | Edward Bloom's Team | 0.2405 |
-| 6 | VISIONERS | 0.2269 |
+| 1 | VISIONERS | 0.4616 |
+| 2 | Oceanview | 0.4512 |
+| 3 | FROST | 0.4119 |
+| 4 | FishEye | 0.4013 |
+| 5 | Rocket Team | 0.2743 |
+| 6 | Edward Bloom's Team | 0.2405 |
 | 7 | CUDAbeFixe | 0.1667 |
 | 8 | Poseidon | 0.1636 |
 | 9 | WhereIsMyFish | 0.1449 |
